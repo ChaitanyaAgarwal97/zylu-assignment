@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "544506864286",
+    "firebase_url": "https://zylu-assignment-79cce-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "zylu-assignment-79cce",
+    "storage_bucket": "zylu-assignment-79cce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544506864286:android:61f4bfbee1d9eb5e7bd18f",
+        "android_client_info": {
+          "package_name": "com.example.flutter.zylu.zylu_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv6xpgQqh6rDUx_A9IYX0Va-51WaME_bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
